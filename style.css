@@ -58,7 +58,7 @@ a:hover, a:active{
     border-radius: 10%;
     overflow-y: auto;
     box-sizing: border-box;
-    padding:5%;
+    padding:10%;
 }
 
 .box h1 {
@@ -67,7 +67,20 @@ a:hover, a:active{
 
 .box h2 {
     font-family:monospace;
-    text-align: justify;
+    text-align: center;
     color: orange;
 }
 
+.box hr {
+    color: orange;
+}
+
+.right {
+    float: right;
+    margin: 70px;
+}
+
+.left {
+    float: left;
+    margin: 50px;
+}
