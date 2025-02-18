@@ -33,16 +33,7 @@ a:hover, a:active{
 
 }
 
-body {
-    text-align: center;
-    background-image: url('https://pktra.github.io/Profile/images/daft-punk-around-the-world-still.jpg');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-    background-color: rgba(0, 0, 0, 0.6);
-    background-blend-mode: darken;
-    margin: auto;
-}
+
 
 .stamp {
     width: 100px;
