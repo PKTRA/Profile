@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Daft Font';
-    src: url('DaftFont.eot');
-    src: url('DaftFont.eot?#iefix') format('embedded-opentype'),
-        url('DaftFont.woff2') format('woff2'),
-        url('DaftFont.woff') format('woff'),
-        url('DaftFont.ttf') format('truetype'),
-        url('DaftFont.svg#DaftFont') format('svg');
+    src: url('https://pktra.github.io/Profile/fonts/DaftFont.eot');
+    src: url('https://pktra.github.io/Profile/fonts/DaftFont.eot?#iefix') format('embedded-opentype'),
+        url('https://pktra.github.io/Profile/fonts/DaftFont.woff2') format('woff2'),
+        url('https://pktra.github.io/Profile/fonts/DaftFont.woff') format('woff'),
+        url('https://pktra.github.io/Profile/fonts/DaftFont.ttf') format('truetype'),
+        url('https://pktra.github.io/Profile/fonts/DaftFont.svg#DaftFont') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
