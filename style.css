@@ -33,8 +33,6 @@ a:hover, a:active{
 
 }
 
-
-
 .stamp {
     width: 100px;
     height: 50px;
@@ -48,3 +46,28 @@ a:hover, a:active{
     font-size: 2em;
     border-radius: 10%;
 }
+
+.box {
+    position: absolute;
+    height:80%;
+    width: 70%;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    border-radius: 10%;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding:5%;
+}
+
+.box h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box h2 {
+    font-family:monospace;
+    text-align: justify;
+    color: orange;
+}
+
